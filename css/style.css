@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+}
+
+h3{
+    color: crimson;
+    font-family: fantasy;
+    font-size: 20;
+}
+
+h2{
+    color:firebrick;
+    font-family: fantasy;
+    font-size: 20;
+
+}
+table
+{
+    font-family:cursive;
+    color: darkorange;
+    font-size: medium;
+}
+
+th
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: goldenrod;
+    font-size: x-large;
+}
+
+tr{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: forestgreen;
+    font-size: x-large;
+}
+
+li
+{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: darkblue;
+    font-size: x-large;
+}
